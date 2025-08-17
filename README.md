@@ -1,21 +1,58 @@
-# 💫 About Me:
-As a web development enthusiast, I have pursued my passion for technology and programming by obtaining a Fontend web developer degree from Coderhouse. There, I learned and applied various skills and tools, such as Figma, GitHub, and Bootstrap, to design and develop user-friendly websites. I have also gained valuable experience as a Freelance Web Developer, working on projects for different clients and companies, such as Sweet&Fresh, a Mexican Import/Export business.<br><br>Additionally, I had the opportunity to work as an Account Manager at Hilti Italia, a leading provider of construction solutions, for three months, where I supported the sales and service team and managed customer relations. My goal is to deepen my knowledge and expertise in web development by joining a professional team that values innovation, collaboration, and quality.<br><br>Let's connect and build something amazing together!
+# Hey, I'm Tomas
+
+### **Currently working as a Content Editor at *VML* for United Airlines’ Hemispheres**
+
+[![VML · Content Editor](https://img.shields.io/badge/VML-Content%20Editor-444444?style=for-the-badge&labelColor=000000&logo=htmx&logoColor=white)](https://www.vml.com/es/argentina)
+[![United Airlines Hemispheres](https://img.shields.io/badge/United%20Airlines-Hemispheres-444444?style=for-the-badge&labelColor=005DAA&logo=unitedairlines&logoColor=white)](https://www.united.com/en/us/hemispheres/index.html)
+
+> **Content editor with frontend experience — committed to usable design and accessible, reliable interfaces.**
+
+## About Me  
+I’ve always had a passion for **aviation**, which makes working on the United Airlines Hemispheres account especially meaningful.  
+Outside of work and code, you’ll often find me on the **tennis court**, enjoying the game and keeping active.
+
+## What I Do  
+- Turn ideas into **interactive, responsive interfaces**  
+- Write **clean, modular code** with React and modern JavaScript  
+- Keep projects **accessible, performant, and easy to maintain**
+
+## Tech  
+
+**Core Web**  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Frameworks & Libraries**  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
+**Tools & Platforms**  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+## Featured Projects  
+
+[![Portfolio](https://img.shields.io/badge/Repo-Portfolio-f2f2f2?logo=github&style=for-the-badge)](https://github.com/coeltom/portfolio)  
+*My personal portfolio site, built with React & Next.js.*
+
+[![Movies Info](https://img.shields.io/badge/Repo-Movies%20Info-d34841?logo=github&style=for-the-badge)](https://github.com/coeltom/movies-info)  
+*A React app to search and explore movies using public APIs.*
+
+## Contact  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-f2f2f2?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://tomascoe.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomascoe.ar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomascoe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coeltom)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomi_coelho)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomi_coelho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomascoe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tomascoe_dev) 
+## My Stats  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=coeltom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=coeltom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coeltom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coeltom&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=coeltom&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=coeltom&show_icons=true&theme=dark" alt="Tomas' GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coeltom&layout=compact&theme=dark" alt="Top Langs" height="165"/>
+</div>
